@@ -1,7 +1,7 @@
 ---
 title: What's new | Microsoft Defender for Identity
 description: This article is updated frequently to let you know what's new in the latest release of Microsoft Defender for Identity.
-ms.date: 05/29/2024
+ms.date: 06/18/2024
 ms.topic: overview
 #CustomerIntent: As a Defender for Identity customer, I want to know what's new in the latest release of Defender for Identity, so that I can take advantage of new features and functionality. 
 ---
@@ -23,6 +23,20 @@ For more information, see also:
 - [What's new in Microsoft Defender for Cloud Apps](/cloud-app-security/release-notes)
 
 For updates about versions and features released six months ago or earlier, see the [What's new archive for Microsoft Defender for Identity](whats-new-archive.md).
+
+## June 2024
+
+### Easily Go Hunt For user Information From the ITDR Dashboard
+
+The Shield Widget provides a quick overview of the number of users in hybrid, cloud, and on-premises environments. This feature now includes direct links to the Advanced Hunting platform, offering detailed user information at your fingertips.
+
+### ITDR Deployment Health Widget Now Include Entra Conditional Access and Entra Private Access 
+
+Now you can view the license availability for Entra Workload Conditional Access, Entra User Conditional Access, and Entra Private Access.
+
+### Defender for Identity release 2.237
+
+This version includes improvements and bug fixes for cloud services and the Defender for Identity sensor.
 
 ## May 2024
 
